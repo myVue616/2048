@@ -1,0 +1,19 @@
+{
+  "pages":[
+    "pages/index/index"
+    
+  ],
+  "window":{
+    "navigationBarBackgroundColor":"#ffffff",
+    "navigationBarTextStyle":"#1AAD16",
+    "navigationBarTitleText":"2048游戏",
+    "backgroundColor":"#eeeeee",
+    "backgroundTextStyle":"light"
+  },
+
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": false
+}
